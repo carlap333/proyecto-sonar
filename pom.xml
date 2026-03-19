@@ -41,6 +41,9 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <jackson.version>2.12.6</jackson.version>
+        <properties>
+  <sonar.organization>carlap333</sonar.organization>
+</properties>
     </properties>
 
 
